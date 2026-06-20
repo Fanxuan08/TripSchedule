@@ -1,4 +1,4 @@
-# Trip Schedule (出國旅遊規劃與分帳神器)
+# Trip Schedule (出國旅遊規劃與分帳系統)
 
 ## 專案簡介
 
