@@ -33,30 +33,39 @@
 ## 執行說明
 
 ### 1. 系統初始化與建立旅程
-剛打開程式時，可以新建旅程或讀取存檔。記得選好你們這團是 J 人多還是 P 人多，這會決定你等一下排行程的介面長怎樣！
+剛打開程式時，可以新建旅程或讀取之前的存檔。若是選擇新建旅程，可以按照排行程的偏好（精細規劃時間表/輕鬆自由排任務型），去選擇是使用 P 人模式或是 J 人模式。
 
 | 初始畫面 | 建立旅程 |
 | :---: | :---: |
-| <img width="400" alt="Frm_Init" src="請在此貼上 螢幕擷取畫面 2026-06-20 170421.png 的網址" /> | <img width="400" alt="Frm_CreateTrip" src="請在此貼上 螢幕擷取畫面 2026-06-20 170430.png 的網址" /> |
+| <img width="410" height="253" alt="螢幕擷取畫面 2026-06-20 170421" src="https://github.com/user-attachments/assets/b0ec44cb-f65e-45af-83de-df0d4bd77b35" /> | <img width="424" height="236" alt="螢幕擷取畫面 2026-06-20 170430" src="https://github.com/user-attachments/assets/e02cc6ce-fefb-43d4-bea4-56f337e4d4a5" />|
 
 ### 2. 主控台與身分切換
-進入主畫面後，右上角可以切換「你是誰」。記得喔，只有主辦人可以存檔！
+進入主畫面後，右上角可以切換身分權限，只有主辦人可以存檔。
+在主畫面裡可以看到四個按鈕分別代表：進行行程規劃、記帳與結算分帳，最後則是進行旅程存檔。
 
-<img width="500" alt="Frm_Dashboard" src="請在此貼上 螢幕擷取畫面 2026-06-20 170441.png 的網址" />
+<img width="410" height="254" alt="螢幕擷取畫面 2026-06-20 170441" src="https://github.com/user-attachments/assets/30f7c135-cab0-4848-82aa-9f6cfadbe913" />
 
 ### 3. 行程規劃 (P/J 雙模式)
 點擊「開始行程規劃」，左上角可以切換天數。
 * **P 模式**：輸入活動後，點擊「新增」就會變成卡片貼在對應的時段。
 * **J 模式**：輸入完整的時間與地點，如果不小心時間重疊，系統會跳出警告。
 
-| P人模式 (彈性看板) | J人模式 (精細表格) |
-| :---: | :---: |
-| <img width="400" alt="Frm_Planner_P" src="請在此貼上 螢幕擷取畫面 2026-06-20 170627.png 的網址" /> | <img width="400" alt="Frm_Planner_J" src="請在此貼上 螢幕擷取畫面 2026-06-20 170734.png 的網址" /> |
+| P人模式 (彈性看板) |
+| :---: |
+| <img width="524" height="370" alt="螢幕擷取畫面 2026-06-20 170627" src="https://github.com/user-attachments/assets/748aa4d5-9cd1-49c1-849a-2b3e9cdd2c23" />|
+
+| J人模式 (精細時間) |
+| :---: |
+| <img width="526" height="373" alt="螢幕擷取畫面 2026-06-20 170734" src="https://github.com/user-attachments/assets/1b7c5efa-9d34-4576-9a45-ec60645edf8a" />|
 
 ### 4. 記帳與智慧結算
-* **開始記帳**：買完東西隨手記，外幣直接打上去，系統會幫你算好台幣。
+* **開始記帳**：買完東西隨手記，外幣直接打上去，系統就會幫你算好台幣。
 * **分帳結算**：最後一天點進來，上面會寫你這趟總共花多少、還欠多少。中間的表格會直接告訴你「誰要轉帳給誰」，照著轉就對了！最後也能把行程和帳單匯出備份。
 
-| 新增消費明細 | 智慧結算與匯出 |
-| :---: | :---: |
-| <img width="400" alt="Frm_Expense" src="請在此貼上 螢幕擷取畫面 2026-06-20 171036.png 的網址" /> | <img width="400" alt="Frm_Settlement" src="請在此貼上 螢幕擷取畫面 2026-06-20 171103.png 的網址" /> |
+| 新增消費明細 |
+| :---: |
+| <img width="527" height="371" alt="螢幕擷取畫面 2026-06-20 171036" src="https://github.com/user-attachments/assets/6ba049f8-7d5e-40ae-9695-2f2091c366b9" />|
+
+| 智慧結算與匯出 |
+| :---: |
+| <img width="345" height="362" alt="螢幕擷取畫面 2026-06-20 171103" src="https://github.com/user-attachments/assets/bb817ac2-2ded-479a-bc7b-81e9dbccdc5f" />|
